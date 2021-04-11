@@ -1,0 +1,25 @@
+Player commands are:
+Look: will display in text what you have available on the table.
+Take: this will allow the player to take an item and place in any hand they like.
+Drop: Drops the item the player is holding in the hand they choose.
+Combine: Will combine both items you are carrying if possible.
+Quit: Quits the game.
+
+
+Hello Player.
+Welcome to a simple survival game.
+The idea is to build several objects with the items given to you.
+Every succesful build grants you a point.
+But if you remake an object it will no count as a point.
+
+The recipes are very simple.
+Get a stick and a rock you make a spear.
+Get a stick and a coal you make a torch.
+Get a mushroom and a bowl you make mushroom soup.
+
+On the table you have available 5 sticks, 2 coals, 3 rocks, 4 bowls and 2 mushroom.
+
+What will you do?
+
+
+
